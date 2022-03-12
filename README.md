@@ -1,3 +1,17 @@
+
+# Placeholder Repo for Aura-NFT Project. Currently in Tokenomics design phase. link to docs are below
+
+[docs] (https://ayushaggy.notion.site/ayushaggy/Aura-NF-TEA-211eb73d8281449aacff63c195e31d15)
+
+
+
+
+
+
+
+
+
+
 # nouns-monorepo
 
 Nouns DAO is a generative avatar art collective run by a group of crypto misfits.
